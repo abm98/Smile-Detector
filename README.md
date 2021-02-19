@@ -1,2 +1,3 @@
 # Smile-Detector
-Detect Smiling Image
+### Detect Smiling Image
+### Using OpenCV Haar Cascade
